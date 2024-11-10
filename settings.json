@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "name": "MyLocalPostgres",
+            "driver": "PostgreSQL",
+            "server": "localhost",
+            "port": 5432,
+            "database": "postgres",
+            "username": "postgres",
+            "password": "",
+            "connectionTimeout": 30
+        }
+    ]
+}
