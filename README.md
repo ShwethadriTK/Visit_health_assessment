@@ -37,6 +37,7 @@ The document consists of a step by step process of ETL using Postgres.
 ### Options for Enhancement
 
 1. The process can be automated using AIRFLOW Scheduler.
+2. Other test conditions like data type check, format checks etc., can also be added.
 2. Create seperate Log files for errors and mismatch records can be added to new dataframe for 
    analysis.
 3. The analysis can further be optimised with:
