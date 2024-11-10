@@ -1,4 +1,9 @@
-# Visit_health_assessment
+## Visit_health_assessment
+
+**Author**: Shwethadri T K
+**Version**: 1.0.0  
+**Last Updated**: 2024-11-10
+
 The project consists of ETL tasks performed on healthcare dataset provided by Visit Health. Also conducted analysis to identify trends and gain insights into the dataset.
 
 ## Data Flow / System  Diagram
@@ -30,4 +35,12 @@ The document consists of a step by step process of ETL using Postgres.
 
 
 ### Options for Enhancement
+
+1. The process can be automated using AIRFLOW Scheduler.
+2. Create seperate Log files for errors and mismatch records can be added to new dataframe for 
+   analysis.
+3. The analysis can further be optimised with:
+    * Demographic data 
+    * Additional data on lifestyle(Work, gym, food habits etc) can help provide concrete and 
+      cumulative results.
 
