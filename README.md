@@ -1,7 +1,7 @@
 ## Visit_health_assessment
 
 **Author**: Shwethadri TK  
-**Version**: 1.0.0. 
+**Version**: 1.0.0.  
 **Last Updated**: 2024-11-10  
 
 The project consists of ETL tasks performed on healthcare dataset provided by Visit Health. Also conducted analysis to identify trends and gain insights into the dataset.
