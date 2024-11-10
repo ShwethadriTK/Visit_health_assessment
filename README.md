@@ -19,3 +19,15 @@ The document consists of a step by step process of ETL using Postgres.
 
                     Fig. ER-Diagram representing relation between tables
 
+3. The dataset consists of four tables df_sponsor,df_users,df_hr_qna,df_response and their attributes
+   as shown respectively.
+4. Create tables based on the above ER_Diagram.
+5. Load the tables with the data from .csv files respectively.
+6. Merge the tables to form a consolidated dataset.
+7. Save the merged_dataframe to local for further analysis using Jupyter Notebook
+8. Tools Used: Visual Studio Code, PgAdmin, Jupyter Notebook.
+9. Database: Postgres
+
+
+### Options for Enhancement
+
