@@ -17,4 +17,5 @@ The document consists of a step by step process of ETL using Postgres.
 
 ![ER-Diagram](ER-diagram.jpg)
 
+                    Fig. ER-Diagram representing relation between tables
 
