@@ -3,3 +3,6 @@ The project consists of ETL tasks performed on healthcare dataset provided by Vi
 
 ## Data Flow / System  Diagram
 
+The Below image consists of workflow diagram.
+
+![Data Flow/Logical Diagram](ShwethadriTK/Visit_health_assessment/WorkFlow Log.jpg)
